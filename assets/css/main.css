@@ -56059,7 +56059,6 @@ a.close.disabled {
 @media (min-width: 320px) and (max-width: 767px) {
   /* line 320, src/assets/scss/components/_components.header.scss */
   .main-sub-menu {
-    height: 220px;
     overflow-y: scroll;
   }
   /* line 324, src/assets/scss/components/_components.header.scss */
