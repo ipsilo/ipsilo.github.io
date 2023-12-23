@@ -1,6 +1,6 @@
 # *
 User-agent: *
-Disallow: /
+Disallow: /pricing-comparision
 
 # Host
 Host: https://9158.cloud
