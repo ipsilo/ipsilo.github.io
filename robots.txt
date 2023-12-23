@@ -3,7 +3,7 @@ User-agent: *
 Disallow: /pricing-comparision
 
 # Host
-Host: https://9158.cloud
+Host: https://www.9158.cloud
 
 # Sitemaps
-https://9158.cloud/sitemap.xml
+https://www.9158.cloud/sitemap.xml
