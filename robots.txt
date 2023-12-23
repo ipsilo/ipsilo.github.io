@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /
+
+# Host
+Host: https://9158.cloud
+
+# Sitemaps
+https://9158.cloud/sitemap.xml
