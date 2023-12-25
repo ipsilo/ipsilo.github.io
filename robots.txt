@@ -6,4 +6,4 @@ Disallow: /pricing-comparision
 Host: https://www.9158.cloud
 
 # Sitemaps
-https://www.9158.cloud/sitemap.xml
+Sitemap: https://www.9158.cloud/sitemap.xml
