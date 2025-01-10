@@ -26787,7 +26787,7 @@ readers do not read off random characters that represent icons */
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(https://9158cloud.oss-cn-shenzhen.aliyuncs.com/font/fa-duotone-900.woff2) format("woff2"), url(../fonts/fa-duotone-900.woff) format("woff"), url(../fonts/fa-duotone-900.ttf) format("truetype");
+  src: url(../fonts/fa-duotone-900.woff2) format("woff2"), url(../fonts/fa-duotone-900.woff) format("woff"), url(../fonts/fa-duotone-900.ttf) format("truetype");
 }
 
 /* line 9840, src/assets/scss/vendors/fontawesome-all.min.css */
